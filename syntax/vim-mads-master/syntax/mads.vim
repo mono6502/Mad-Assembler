@@ -139,7 +139,7 @@ syn keyword madsVirtOp IND DEW DEL DED CPB CPW CPL CPD
 
 syn keyword madsPreProc DTA EIF ELI ELS END EQU ERT ICL IFT INI
 syn keyword madsPreProc INS OPT ORG RUN BLK END SET EXT SIN COS
-syn keyword madsPreProc RND NMB RMB LMB
+syn keyword madsPreProc RND NMB RMB LMB SMB
 
 syn keyword madsRegister x y a
 
